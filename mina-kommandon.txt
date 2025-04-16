@@ -3,3 +3,4 @@ git add – Lägger till ändringar till staging-området inför commit.
 git commit – Sparar de ändringar som är staged till versionhistoriken.
 git log – Visar historik av commits i projektet.
 git diff – Visar skillnader mellan arbetskatalog och staging eller tidigare commits.
+git clone – Klonar ett existerande repository till din dator.
