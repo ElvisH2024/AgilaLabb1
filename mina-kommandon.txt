@@ -9,3 +9,4 @@ git pull – Hämtar och mergar ändringar från fjärr-repot till din lokala ko
 git branch – Visar alla brancher i projektet.
 git checkout -b ny-branch – Skapar och byter till en ny branch.
 git merge – Slår ihop en annan branch med den du jobbar på.
+git reset – Ångrar ändringar i staging-området eller tidigare commits.
