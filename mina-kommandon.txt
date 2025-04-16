@@ -4,3 +4,4 @@ git commit – Sparar de ändringar som är staged till versionhistoriken.
 git log – Visar historik av commits i projektet.
 git diff – Visar skillnader mellan arbetskatalog och staging eller tidigare commits.
 git clone – Klonar ett existerande repository till din dator.
+git push – Skickar dina commits från den lokala datorn till fjärr-repot (GitHub).
