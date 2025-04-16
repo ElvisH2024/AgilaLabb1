@@ -7,3 +7,4 @@ git clone – Klonar ett existerande repository till din dator.
 git push – Skickar dina commits från den lokala datorn till fjärr-repot (GitHub).
 git pull – Hämtar och mergar ändringar från fjärr-repot till din lokala kopia.
 git branch – Visar alla brancher i projektet.
+git checkout -b ny-branch – Skapar och byter till en ny branch.
