@@ -1,2 +1,3 @@
 git status – Visar aktuellt tillstånd för arbetskatalogen och staging-området.
 git add – Lägger till ändringar till staging-området inför commit.
+git commit – Sparar de ändringar som är staged till versionhistoriken.
