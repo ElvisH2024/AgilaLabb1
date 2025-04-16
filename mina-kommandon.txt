@@ -8,3 +8,4 @@ git push – Skickar dina commits från den lokala datorn till fjärr-repot (Git
 git pull – Hämtar och mergar ändringar från fjärr-repot till din lokala kopia.
 git branch – Visar alla brancher i projektet.
 git checkout -b ny-branch – Skapar och byter till en ny branch.
+git merge – Slår ihop en annan branch med den du jobbar på.
