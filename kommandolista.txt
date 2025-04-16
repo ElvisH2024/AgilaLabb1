@@ -1,0 +1,15 @@
+git init – Skapar ett nytt git-repository.
+git status – Visar status på ändringar i projektet.
+git add – Lägger till filer för nästa commit.
+git commit – Skapar en ny commit av ändringarna.
+git log – Visar historik av commits.
+git diff – Visar ändringar mellan commits.
+git clone – Klonar ett repo från GitHub.
+git push – Skickar dina commits till GitHub.
+git pull – Hämtar och mergar ändringar från GitHub.
+git branch – Visar alla brancher.
+git checkout -b ny-branch – Skapar och byter till en ny branch.
+git merge – Slår ihop en branch med den aktiva.
+git remote -v – Visar länkade fjärr-repon.
+git reset – Återställer ändringar.
+git stash – Sparar tillfälligt undan ändringar.
